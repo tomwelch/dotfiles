@@ -73,6 +73,7 @@ cask 'google-chrome'
 cask 'imageoptim'
 cask 'insomnia'
 cask 'macdown'
+cask 'moom'
 cask 'nordvpn'
 # cask 'notion'
 cask 'paw'
@@ -94,6 +95,7 @@ cask 'tweetbot'
 # cask 'visual-studio-code'
 cask 'vlc'
 # cask 'whatsapp'
+cask 'zoom'
 
 # Quicklook
 cask 'qlcolorcode'
@@ -119,6 +121,8 @@ mas 'Keynote', id: 409183694
 mas 'MacTracker', id: 430255202
 mas 'Numbers', id: 409203825
 mas 'Pages', id: 409201541
+mas 'Pocket', id: 568494494
+mas 'Save to Pocket', id: 1477385213
 mas 'Sequel Ace', id: 1518036000
 # mas 'Trello', id: 1278508951
 # mas 'Wallcat', id: 1000397973
